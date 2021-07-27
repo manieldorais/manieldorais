@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manieldorais
 - 👀 I’m interested in peogramming and songs 🎵
-- 🌱 I’m currently learning pyton and swift
+- 🌱 I’m currently learning python and swift
 - 💞️ I am a php,javascript expert and have a vast knowledge of java
 - 📫 How to reach me: danielmatos98@gmail.com or IG: @manieldorais
 
