@@ -2,7 +2,7 @@
 - 👀 I’m interested in peogramming and songs 🎵
 - 🌱 I’m currently learning python and swift
 - 💞️ I am a php,javascript expert and have a vast knowledge of java
-- 📫 How to reach me: danielmatos98@gmail.com or IG: @manieldorais
+- 📫 How to reach me: danielmatos98@gmail.com or Instagem/Twitter: @manieldorais
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Daniel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
