@@ -13,15 +13,6 @@
   <img align="center" alt="Daniel-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <br>
 </div>
-<div style="display: inline-block;">
-  <br>
-  <br>
-  <a href="https://github.com/manieldorais">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=manieldorais&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manieldorais&layout=compact&langs_count=7&theme=dark"/>
-    <br>
-    <br>
-</div>
   <div>
   <a href="https://instagram.com/manieldorais" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danielmatos98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
