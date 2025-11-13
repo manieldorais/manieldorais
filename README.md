@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @manieldorais
-- 👀 I’m interested in peogramming and songs 🎵
-- 🌱 I’m currently learning python and swift
-- 💞️ I am a php and javascript expert, have a vast knowledge of java
-- 📫 How to reach me: danielmatos98@gmail.com or Instagem/Twitter: @manieldorais
+- "Code Alchemist": Meu trabalho é transformar ideias em realidade FullStack.
+- Fluente em PHP, JS e Java. Aprendendo Python ao som de uma boa música 🎵.
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Daniel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
